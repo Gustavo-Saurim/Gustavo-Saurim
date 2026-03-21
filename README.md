@@ -47,12 +47,6 @@ Busco oportunidades para evoluir tecnicamente, contribuir com soluções eficien
 
 ---
 
-## 📈 Estatísticas
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Futuro10&show_icons=true)
-
----
-
 ## 📫 Contato
 - LinkedIn: Gustavo Saurim
 - Email: gustavo.saurim07@gmail.com
