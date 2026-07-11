@@ -3,6 +3,8 @@
 💻 Estudante de tecnologia  
 📍 São Paulo - Brasil  
 
+![Snake animation](https://github.com/Gustavo-Saurim/Gustavo-Saurim/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 ## 🚀 Sobre mim
